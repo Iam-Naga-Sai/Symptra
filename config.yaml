@@ -1,4 +1,4 @@
-# Symptra — AI Symptom Information Chatbot
+# Symptra — AI Symptom Information Assistant
 # Configuration file
 
 llm:
@@ -35,7 +35,7 @@ prompts:
 
   disclaimer_short: "**Disclaimer:** Symptra is not medical advice. Consult a doctor."
   disclaimer_long: |
-    ⚠️ **IMPORTANT DISCLAIMER:**
+    **IMPORTANT DISCLAIMER:**
     Symptra is an AI simulation for informational purposes only. It is **NOT** a substitute for professional medical advice, diagnosis, or treatment. Information provided may be incomplete or inaccurate.
     **ALWAYS consult a qualified healthcare provider** for any health concerns or before making any decisions related to your health.
     **If you think you may have a medical emergency, call your doctor or emergency services immediately.**
@@ -46,7 +46,7 @@ app:
   menu_items:
     Get Help: 'mailto:your-email@example.com'
     Report a bug: "mailto:your-email@example.com"
-    About: "# 🩺 Symptra\n**Understand before you worry.**\n\nAn AI-powered symptom information chatbot.\n\n⚠️ **NOT a medical device.** Always consult a qualified healthcare provider.\n\nPowered by Groq."
+    About: "# 🩺 Symptra\n**Understand before you worry.**\n\nAn AI-powered symptom information Assistant.\n\n⚠️ **NOT a medical device.** Always consult a qualified healthcare provider.\n\nPowered by Groq."
 
 logging:
   level: "INFO"
