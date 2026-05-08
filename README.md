@@ -6,7 +6,7 @@
 
 
 
-An AI-powered symptom information chatbot built with Streamlit and Groq's Llama models. Symptra provides general health information in a conversational format — always with safety guardrails redirecting users to qualified medical professionals.
+An AI-powered Assistant built with Streamlit and Hugging Face, Groq's Llama models. Symptra provides general health information in a conversational format — always with safety guardrails redirecting users to qualified medical professionals.
 
 
 
@@ -14,7 +14,7 @@ An AI-powered symptom information chatbot built with Streamlit and Groq's Llama 
 
 
 
-🔗 \*\*Live Demo:\*\* \[Try Symptra](https://your-streamlit-url.streamlit.app)
+🔗 \*\*Live Demo:\*\* \https://symptra-ai.streamlit.app/
 
 
 
@@ -244,16 +244,6 @@ Symptra's system prompt enforces several non-negotiable constraints:
 
 
 
-\## 📜 License
-
-
-
-MIT License — feel free to use this as a learning resource.
-
-
-
-\---
-
 
 
 \## 👤 Author
@@ -261,11 +251,12 @@ MIT License — feel free to use this as a learning resource.
 
 
 \*\*Naga Sai\*\*
+\*\*nagasain2710@gmail.com\*\*
 
 
 
 \[GitHub](https://github.com/nagasain2710-crypto)
-
+[LinkedIn](https://www.linkedin.com/in/nagasain2710/)
 
 
 \---
