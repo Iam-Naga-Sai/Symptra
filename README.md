@@ -56,7 +56,7 @@ An AI-powered symptom information chatbot built with Streamlit and Groq's Llama 
 
 | \*\*Frontend\*\* | Streamlit |
 
-| \*\*LLM Provider\*\* | Groq (Llama 3.1 / 3.3) |
+| \*\*LLM Provider\*\* | Groq (Llama 3.1 / 3.3) | Hugging Face (Later Migrated to Groq API)
 
 | \*\*Language\*\* | Python 3.10+ |
 
